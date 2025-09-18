@@ -1,0 +1,301 @@
+StudyID,TFL,Type,Status,Owner,PlannedDate,ActualDate
+PROJ101,F001,Figure,Not Started,Maria,2025-05-20,
+PROJ303,F002,Figure,Completed,John,2025-11-06,2025-11-15
+PROJ202,F003,Figure,In Progress,Sarah,2025-07-18,
+PROJ303,T004,Table,Completed,Chen,2025-11-02,2025-11-06
+PROJ101,F005,Figure,On Hold,Chen,2025-11-02,
+PROJ404,F006,Figure,Completed,John,2025-04-30,2025-05-29
+PROJ303,T007,Table,Not Started,Sarah,2025-02-21,
+PROJ404,L008,Listing,Completed,John,2025-01-22,2025-01-27
+PROJ202,F009,Figure,In Progress,Alex,2025-03-09,
+PROJ101,L010,Listing,Completed,Sarah,2025-05-17,2025-05-27
+PROJ303,T011,Table,On Hold,Maria,2025-08-24,
+PROJ505,F012,Figure,On Hold,Chen,2025-08-06,
+PROJ101,L013,Listing,Not Started,John,2025-02-24,
+PROJ202,T014,Table,Completed,John,2025-08-10,2025-08-28
+PROJ505,T015,Table,In Progress,Sarah,2025-01-21,
+PROJ505,F016,Figure,Not Started,John,2025-07-22,
+PROJ505,F017,Figure,Not Started,John,2025-07-14,
+PROJ101,T018,Table,Not Started,Alex,2025-01-25,
+PROJ303,T019,Table,Completed,John,2025-01-12,2025-01-20
+PROJ303,T020,Table,In Progress,Maria,2025-02-26,
+PROJ404,L021,Listing,Not Started,John,2025-09-19,
+PROJ202,T022,Table,Not Started,Maria,2025-09-26,
+PROJ303,L023,Listing,On Hold,Chen,2025-03-19,
+PROJ505,T024,Table,Not Started,John,2025-12-12,
+PROJ505,T025,Table,Completed,Maria,2025-06-08,2025-06-15
+PROJ404,L026,Listing,Not Started,Maria,2025-05-05,
+PROJ202,F027,Figure,In Progress,Alex,2025-08-26,
+PROJ505,F028,Figure,Not Started,Alex,2025-08-08,
+PROJ202,F029,Figure,On Hold,Maria,2025-02-13,
+PROJ303,T030,Table,Completed,Maria,2025-03-31,2025-04-02
+PROJ101,L031,Listing,Completed,Alex,2025-03-04,2025-04-02
+PROJ404,F032,Figure,On Hold,Maria,2025-05-04,
+PROJ505,F033,Figure,On Hold,Maria,2025-11-23,
+PROJ505,L034,Listing,Completed,Chen,2025-10-02,2025-10-15
+PROJ505,L035,Listing,Completed,Sarah,2025-04-25,2025-05-25
+PROJ101,T036,Table,On Hold,Alex,2025-07-26,
+PROJ404,L037,Listing,In Progress,Chen,2025-11-01,
+PROJ404,F038,Figure,On Hold,Maria,2025-11-09,
+PROJ404,L039,Listing,Completed,Sarah,2025-12-19,2025-12-26
+PROJ303,T040,Table,Not Started,Sarah,2025-04-24,
+PROJ303,T041,Table,Not Started,Sarah,2025-03-04,
+PROJ303,L042,Listing,Completed,Maria,2025-09-28,2025-10-14
+PROJ303,F043,Figure,On Hold,John,2025-12-25,
+PROJ101,T044,Table,On Hold,Chen,2025-10-15,
+PROJ505,T045,Table,On Hold,Maria,2025-11-29,
+PROJ404,T046,Table,In Progress,Chen,2025-02-14,
+PROJ404,F047,Figure,Completed,John,2025-02-18,2025-02-22
+PROJ101,F048,Figure,Completed,Alex,2025-04-12,2025-04-20
+PROJ303,F049,Figure,On Hold,Alex,2025-03-06,
+PROJ404,T050,Table,Not Started,John,2025-04-13,
+PROJ303,L051,Listing,On Hold,Chen,2025-06-23,
+PROJ505,L052,Listing,Not Started,Chen,2025-08-28,
+PROJ101,T053,Table,In Progress,Chen,2025-12-11,
+PROJ404,T054,Table,Not Started,Sarah,2025-02-11,
+PROJ101,L055,Listing,Completed,Maria,2025-02-20,2025-03-05
+PROJ202,T056,Table,In Progress,John,2025-04-03,
+PROJ202,T057,Table,Not Started,Maria,2025-01-28,
+PROJ202,F058,Figure,Completed,Sarah,2025-12-18,2026-01-04
+PROJ202,F059,Figure,Completed,Sarah,2025-08-03,2025-08-29
+PROJ505,T060,Table,On Hold,John,2025-03-05,
+PROJ505,T061,Table,In Progress,Maria,2025-10-16,
+PROJ404,L062,Listing,Not Started,Sarah,2025-01-03,
+PROJ303,L063,Listing,In Progress,John,2025-08-30,
+PROJ303,L064,Listing,In Progress,Maria,2025-06-23,
+PROJ101,T065,Table,Not Started,Maria,2025-07-24,
+PROJ101,T066,Table,On Hold,John,2025-01-15,
+PROJ505,F067,Figure,Not Started,Sarah,2025-09-20,
+PROJ202,T068,Table,Completed,Alex,2025-04-13,2025-05-13
+PROJ404,T069,Table,Not Started,Chen,2025-11-25,
+PROJ303,L070,Listing,On Hold,Chen,2025-11-20,
+PROJ303,F071,Figure,Not Started,Sarah,2025-01-20,
+PROJ404,L072,Listing,On Hold,Alex,2025-07-27,
+PROJ404,F073,Figure,On Hold,Sarah,2025-05-20,
+PROJ404,F074,Figure,Not Started,John,2025-09-09,
+PROJ404,T075,Table,Not Started,Alex,2025-12-29,
+PROJ505,T076,Table,Completed,John,2025-05-25,2025-06-14
+PROJ101,L077,Listing,In Progress,Chen,2025-07-25,
+PROJ303,F078,Figure,Completed,Chen,2025-11-07,2025-12-01
+PROJ303,L079,Listing,On Hold,John,2025-05-12,
+PROJ202,T080,Table,On Hold,Maria,2025-09-08,
+PROJ101,L081,Listing,In Progress,Alex,2025-08-17,
+PROJ303,T082,Table,On Hold,John,2025-06-20,
+PROJ202,F083,Figure,In Progress,Chen,2025-02-19,
+PROJ303,F084,Figure,Completed,Chen,2025-09-13,2025-10-10
+PROJ505,T085,Table,Completed,Maria,2025-07-23,2025-08-16
+PROJ202,L086,Listing,Completed,John,2025-09-22,2025-10-11
+PROJ101,T087,Table,Completed,John,2025-03-07,2025-03-28
+PROJ404,L088,Listing,On Hold,Sarah,2025-07-28,
+PROJ505,F089,Figure,In Progress,Maria,2025-09-21,
+PROJ101,F090,Figure,Completed,Sarah,2025-06-16,2025-06-25
+PROJ303,F091,Figure,On Hold,Sarah,2025-07-28,
+PROJ202,L092,Listing,On Hold,Maria,2025-02-27,
+PROJ505,F093,Figure,On Hold,Chen,2025-11-06,
+PROJ202,L094,Listing,In Progress,John,2025-08-05,
+PROJ303,L095,Listing,Not Started,Alex,2025-04-30,
+PROJ303,L096,Listing,Not Started,Maria,2025-11-15,
+PROJ303,F097,Figure,Completed,Alex,2025-12-19,2026-01-01
+PROJ505,F098,Figure,In Progress,Chen,2025-03-01,
+PROJ404,T099,Table,Completed,Maria,2025-02-05,2025-02-10
+PROJ404,F100,Figure,Completed,Alex,2025-02-27,2025-03-20
+PROJ303,T101,Table,Not Started,Sarah,2025-10-23,
+PROJ404,L102,Listing,Not Started,Maria,2025-04-07,
+PROJ202,L103,Listing,Not Started,Maria,2025-08-13,
+PROJ101,F104,Figure,In Progress,Alex,2025-08-01,
+PROJ505,L105,Listing,Completed,Maria,2025-02-06,2025-02-14
+PROJ202,T106,Table,Completed,Sarah,2025-04-21,2025-05-16
+PROJ404,L107,Listing,In Progress,Chen,2025-04-11,
+PROJ202,L108,Listing,Completed,John,2025-09-09,2025-09-18
+PROJ505,T109,Table,Not Started,Chen,2025-02-20,
+PROJ202,F110,Figure,Not Started,Alex,2025-11-27,
+PROJ202,L111,Listing,Completed,Alex,2025-11-11,2025-11-21
+PROJ202,F112,Figure,Completed,John,2025-07-14,2025-07-22
+PROJ404,L113,Listing,Completed,John,2025-06-23,2025-07-14
+PROJ505,T114,Table,Completed,Chen,2025-12-20,2026-01-06
+PROJ101,T115,Table,Completed,Alex,2025-11-20,2025-11-27
+PROJ101,L116,Listing,On Hold,Chen,2025-05-15,
+PROJ202,F117,Figure,Completed,Maria,2025-06-02,2025-06-20
+PROJ404,F118,Figure,On Hold,Chen,2025-09-07,
+PROJ404,T119,Table,In Progress,Sarah,2025-12-29,
+PROJ303,L120,Listing,In Progress,Alex,2025-09-02,
+PROJ505,T121,Table,Completed,Alex,2025-05-23,2025-05-27
+PROJ202,L122,Listing,Completed,Sarah,2025-09-23,2025-10-08
+PROJ505,F123,Figure,Completed,John,2025-01-13,2025-01-14
+PROJ404,L124,Listing,On Hold,Alex,2025-11-30,
+PROJ505,L125,Listing,Completed,Chen,2025-08-18,2025-08-25
+PROJ202,F126,Figure,Completed,Maria,2025-03-09,2025-03-17
+PROJ101,T127,Table,In Progress,Alex,2025-04-05,
+PROJ101,F128,Figure,Completed,Sarah,2025-01-04,2025-01-04
+PROJ404,F129,Figure,Not Started,Maria,2025-12-10,
+PROJ202,T130,Table,On Hold,Alex,2025-10-28,
+PROJ202,L131,Listing,Completed,John,2025-06-07,2025-06-15
+PROJ202,T132,Table,Not Started,Alex,2025-09-27,
+PROJ404,L133,Listing,Not Started,John,2025-11-05,
+PROJ303,L134,Listing,Completed,John,2025-07-17,2025-07-31
+PROJ303,F135,Figure,In Progress,Maria,2025-06-26,
+PROJ404,T136,Table,In Progress,John,2025-05-25,
+PROJ101,L137,Listing,In Progress,Alex,2025-07-21,
+PROJ101,L138,Listing,Completed,Chen,2025-12-21,2026-01-01
+PROJ505,T139,Table,On Hold,Sarah,2025-12-25,
+PROJ202,F140,Figure,In Progress,John,2025-07-16,
+PROJ202,F141,Figure,In Progress,Sarah,2025-11-21,
+PROJ303,F142,Figure,Completed,Alex,2025-03-18,2025-04-15
+PROJ202,L143,Listing,Not Started,Maria,2025-08-06,
+PROJ303,T144,Table,On Hold,Chen,2025-09-29,
+PROJ202,F145,Figure,Completed,Sarah,2025-01-24,2025-01-27
+PROJ303,L146,Listing,In Progress,Alex,2025-11-27,
+PROJ404,L147,Listing,Not Started,Sarah,2025-12-10,
+PROJ202,F148,Figure,Completed,Maria,2025-07-04,2025-07-26
+PROJ505,F149,Figure,On Hold,John,2025-03-19,
+PROJ202,F150,Figure,Completed,John,2025-10-04,2025-10-30
+PROJ404,L151,Listing,Not Started,Alex,2025-03-30,
+PROJ101,L152,Listing,In Progress,John,2025-12-17,
+PROJ404,F153,Figure,On Hold,Sarah,2025-04-13,
+PROJ101,L154,Listing,Completed,Chen,2025-08-14,2025-09-11
+PROJ202,L155,Listing,On Hold,John,2025-10-07,
+PROJ101,L156,Listing,In Progress,Maria,2025-07-03,
+PROJ202,L157,Listing,On Hold,Chen,2025-04-27,
+PROJ505,L158,Listing,Completed,Sarah,2025-03-26,2025-04-15
+PROJ505,T159,Table,Not Started,Chen,2025-07-05,
+PROJ303,F160,Figure,In Progress,Chen,2025-04-01,
+PROJ303,T161,Table,In Progress,Maria,2025-05-12,
+PROJ202,F162,Figure,On Hold,Alex,2025-06-24,
+PROJ101,T163,Table,Completed,John,2025-09-05,2025-09-14
+PROJ101,T164,Table,Completed,Chen,2025-12-19,2026-01-12
+PROJ303,F165,Figure,Not Started,Maria,2025-04-22,
+PROJ202,F166,Figure,Completed,Sarah,2025-03-27,2025-04-03
+PROJ303,T167,Table,On Hold,Maria,2025-08-16,
+PROJ303,T168,Table,On Hold,Sarah,2025-06-12,
+PROJ505,L169,Listing,Completed,Sarah,2025-05-27,2025-06-15
+PROJ303,T170,Table,Completed,Maria,2025-11-15,2025-11-15
+PROJ505,F171,Figure,On Hold,Alex,2025-02-24,
+PROJ202,L172,Listing,On Hold,Chen,2025-08-19,
+PROJ404,T173,Table,Completed,Chen,2025-06-26,2025-07-12
+PROJ303,L174,Listing,Not Started,Maria,2025-04-13,
+PROJ505,L175,Listing,Not Started,Alex,2025-02-16,
+PROJ101,T176,Table,On Hold,Maria,2025-01-07,
+PROJ101,L177,Listing,Not Started,Sarah,2025-03-20,
+PROJ303,L178,Listing,Completed,John,2025-01-11,2025-02-10
+PROJ202,T179,Table,Not Started,John,2025-09-04,
+PROJ505,L180,Listing,On Hold,John,2025-02-28,
+PROJ505,L181,Listing,Not Started,John,2025-08-14,
+PROJ505,T182,Table,On Hold,Maria,2025-04-23,
+PROJ505,F183,Figure,In Progress,Sarah,2025-08-19,
+PROJ101,F184,Figure,In Progress,John,2025-04-05,
+PROJ202,T185,Table,Completed,Chen,2025-12-04,2026-01-03
+PROJ303,T186,Table,In Progress,John,2025-11-12,
+PROJ101,T187,Table,Not Started,Sarah,2025-10-21,
+PROJ303,F188,Figure,Not Started,Alex,2025-04-02,
+PROJ404,F189,Figure,Completed,Alex,2025-11-29,2025-12-23
+PROJ404,F190,Figure,On Hold,Sarah,2025-02-07,
+PROJ505,F191,Figure,Completed,Sarah,2025-10-27,2025-10-27
+PROJ303,L192,Listing,On Hold,John,2025-09-10,
+PROJ303,L193,Listing,Not Started,Maria,2025-02-14,
+PROJ404,L194,Listing,Completed,Chen,2025-12-19,2026-01-05
+PROJ202,T195,Table,Completed,Maria,2025-10-17,2025-11-11
+PROJ202,T196,Table,Not Started,Maria,2025-04-13,
+PROJ303,F197,Figure,On Hold,Sarah,2025-06-13,
+PROJ101,L198,Listing,On Hold,Sarah,2025-05-18,
+PROJ505,F199,Figure,On Hold,Sarah,2025-04-27,
+PROJ303,F200,Figure,Completed,Sarah,2025-12-04,2025-12-23
+PROJ505,F201,Figure,In Progress,Alex,2025-07-18,
+PROJ101,F202,Figure,Not Started,Sarah,2025-10-29,
+PROJ505,T203,Table,Completed,Chen,2025-06-02,2025-06-27
+PROJ505,T204,Table,On Hold,Sarah,2025-04-18,
+PROJ505,L205,Listing,Completed,Chen,2025-11-07,2025-11-18
+PROJ505,L206,Listing,Completed,Alex,2025-11-21,2025-11-25
+PROJ404,T207,Table,On Hold,Maria,2025-11-02,
+PROJ303,F208,Figure,On Hold,Chen,2025-08-24,
+PROJ202,L209,Listing,In Progress,Maria,2025-11-09,
+PROJ101,F210,Figure,Not Started,John,2025-01-12,
+PROJ505,L211,Listing,Not Started,Alex,2025-10-17,
+PROJ303,F212,Figure,In Progress,Maria,2025-11-21,
+PROJ101,T213,Table,On Hold,Sarah,2025-12-17,
+PROJ202,T214,Table,In Progress,Alex,2025-10-22,
+PROJ505,F215,Figure,In Progress,John,2025-03-13,
+PROJ404,L216,Listing,Completed,Alex,2025-02-27,2025-03-25
+PROJ303,L217,Listing,Not Started,Sarah,2025-02-25,
+PROJ202,F218,Figure,In Progress,John,2025-11-27,
+PROJ404,F219,Figure,Completed,Chen,2025-09-07,2025-10-05
+PROJ404,T220,Table,Not Started,Maria,2025-01-26,
+PROJ202,T221,Table,Completed,Alex,2025-02-01,2025-03-01
+PROJ404,L222,Listing,In Progress,Sarah,2025-11-03,
+PROJ505,T223,Table,On Hold,John,2025-11-24,
+PROJ202,F224,Figure,Completed,Sarah,2025-12-04,2025-12-22
+PROJ303,F225,Figure,In Progress,Maria,2025-06-05,
+PROJ202,F226,Figure,On Hold,Chen,2025-05-30,
+PROJ404,F227,Figure,In Progress,Maria,2025-11-02,
+PROJ303,L228,Listing,On Hold,John,2025-06-19,
+PROJ202,T229,Table,Completed,Sarah,2025-01-09,2025-01-18
+PROJ404,L230,Listing,Not Started,Chen,2025-08-17,
+PROJ202,F231,Figure,On Hold,John,2025-05-16,
+PROJ404,F232,Figure,Not Started,Maria,2025-01-14,
+PROJ505,F233,Figure,Completed,Alex,2025-11-21,2025-12-02
+PROJ404,F234,Figure,Not Started,Alex,2025-12-01,
+PROJ202,L235,Listing,In Progress,Alex,2025-01-13,
+PROJ404,T236,Table,In Progress,Maria,2025-04-08,
+PROJ101,T237,Table,In Progress,Alex,2025-02-01,
+PROJ202,T238,Table,On Hold,Maria,2025-08-16,
+PROJ101,T239,Table,Not Started,John,2025-12-23,
+PROJ505,T240,Table,Not Started,John,2025-01-25,
+PROJ505,L241,Listing,In Progress,Maria,2025-05-29,
+PROJ404,L242,Listing,Completed,Maria,2025-07-21,2025-08-03
+PROJ202,F243,Figure,Completed,John,2025-02-03,2025-02-25
+PROJ404,L244,Listing,In Progress,Maria,2025-07-09,
+PROJ101,F245,Figure,On Hold,Maria,2025-01-12,
+PROJ202,F246,Figure,In Progress,John,2025-05-14,
+PROJ101,T247,Table,Not Started,Chen,2025-06-16,
+PROJ303,L248,Listing,In Progress,Sarah,2025-10-12,
+PROJ303,T249,Table,On Hold,Chen,2025-09-20,
+PROJ505,T250,Table,On Hold,Maria,2025-05-23,
+PROJ404,L251,Listing,In Progress,Chen,2025-09-28,
+PROJ303,T252,Table,Not Started,Maria,2025-05-17,
+PROJ101,F253,Figure,On Hold,Maria,2025-11-06,
+PROJ303,L254,Listing,On Hold,Sarah,2025-02-28,
+PROJ101,L255,Listing,On Hold,Alex,2025-11-12,
+PROJ303,L256,Listing,On Hold,Chen,2025-11-02,
+PROJ404,L257,Listing,Completed,Chen,2025-01-10,2025-01-25
+PROJ303,F258,Figure,On Hold,Maria,2025-05-26,
+PROJ101,F259,Figure,Completed,Sarah,2025-10-27,2025-10-30
+PROJ202,T260,Table,On Hold,Sarah,2025-12-08,
+PROJ404,T261,Table,Completed,Maria,2025-01-26,2025-02-07
+PROJ404,F262,Figure,Completed,Sarah,2025-09-20,2025-09-21
+PROJ505,F263,Figure,Not Started,Alex,2025-09-20,
+PROJ505,T264,Table,Completed,John,2025-02-13,2025-02-22
+PROJ202,T265,Table,In Progress,Sarah,2025-12-14,
+PROJ505,L266,Listing,Completed,Sarah,2025-11-24,2025-12-19
+PROJ303,F267,Figure,Not Started,Sarah,2025-12-19,
+PROJ505,L268,Listing,Not Started,Sarah,2025-07-10,
+PROJ505,T269,Table,In Progress,Chen,2025-04-12,
+PROJ101,T270,Table,Completed,John,2025-12-22,2026-01-09
+PROJ505,T271,Table,Not Started,John,2025-05-14,
+PROJ505,T272,Table,In Progress,Sarah,2025-03-22,
+PROJ404,T273,Table,In Progress,Sarah,2025-02-08,
+PROJ505,F274,Figure,Not Started,Alex,2025-02-21,
+PROJ101,T275,Table,Completed,Alex,2025-10-08,2025-10-11
+PROJ404,L276,Listing,On Hold,Alex,2025-09-30,
+PROJ202,T277,Table,In Progress,John,2025-11-08,
+PROJ404,F278,Figure,Not Started,Maria,2025-04-03,
+PROJ505,F279,Figure,Completed,John,2025-11-04,2025-11-16
+PROJ505,T280,Table,Not Started,Sarah,2025-06-23,
+PROJ101,L281,Listing,On Hold,Alex,2025-02-01,
+PROJ505,T282,Table,In Progress,John,2025-04-26,
+PROJ101,T283,Table,On Hold,Maria,2025-03-30,
+PROJ505,F284,Figure,Not Started,Maria,2025-11-04,
+PROJ202,F285,Figure,In Progress,Chen,2025-02-07,
+PROJ303,L286,Listing,Not Started,Chen,2025-01-06,
+PROJ404,L287,Listing,On Hold,Chen,2025-09-25,
+PROJ404,F288,Figure,In Progress,Maria,2025-12-27,
+PROJ404,F289,Figure,In Progress,John,2025-05-29,
+PROJ404,T290,Table,On Hold,Maria,2025-06-09,
+PROJ202,L291,Listing,On Hold,Alex,2025-08-04,
+PROJ202,L292,Listing,Not Started,Chen,2025-01-02,
+PROJ202,F293,Figure,Completed,Chen,2025-12-12,2025-12-12
+PROJ303,F294,Figure,Not Started,John,2025-06-25,
+PROJ101,T295,Table,In Progress,Maria,2025-09-01,
+PROJ202,L296,Listing,Not Started,John,2025-12-05,
+PROJ303,L297,Listing,On Hold,John,2025-06-15,
+PROJ202,L298,Listing,On Hold,John,2025-10-10,
+PROJ404,F299,Figure,In Progress,Alex,2025-07-04,
+PROJ303,F300,Figure,Not Started,John,2025-01-24,
